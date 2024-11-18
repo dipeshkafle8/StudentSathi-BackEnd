@@ -10,7 +10,15 @@ require("./model/dbConnection");
 let port = process.env.PORT || 3000;
 
 const app = express();
-app.use(cors());
+
+app.use(
+  cors({
+    origin: "*", // Allow all origins
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"], // Allow necessary methods
+    allowedHeaders: ["Content-Type", "Authorization"], // Allow necessary headers
+  })
+);
+
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
