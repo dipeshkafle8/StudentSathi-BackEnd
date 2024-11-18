@@ -1,0 +1,126 @@
+[
+    {
+        "rank": 1,
+        "name": "TAMIL NADU AGRICULTURAL UNIVERSITY",
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "desc": "Tamil Nadu Agricultural University, located in Coimbatore, Tamil Nadu, is a leading institution for agricultural education and research. With state-of-the-art facilities and renowned faculty, it offers comprehensive programs to prepare students for careers in agriculture and related fields."
+    },
+    {
+        "rank": 2,
+        "name": "ACHARYA NG RANGA AGRICULTURAL UNIVERSITY",
+        "city": "Guntur",
+        "state": "Andhra Pradesh",
+        "desc": "Acharya NG Ranga Agricultural University, situated in Guntur, Andhra Pradesh, is a premier institution for agricultural education and research. With a focus on innovation and sustainable practices, it prepares students to address the challenges in agriculture and contribute to rural development."
+    },
+    {
+        "rank": 3,
+        "name": "PUNJAB AGRICULTURAL UNIVERSITY",
+        "city": "Ludhiana",
+        "state": "Punjab",
+        "desc": "Punjab Agricultural University, located in Ludhiana, Punjab, is a renowned institution known for its excellence in agricultural education and research. With a rich legacy and modern infrastructure, it offers comprehensive programs to empower students with the knowledge and skills for agricultural innovation and development."
+    },
+    {
+        "rank": 4,
+        "name": "ANBIL DHARMALINGAM AGRICULTURAL COLLEGE AND RESEARCH INSTITUTE",
+        "city": "Tiruchirappalli",
+        "state": "Tamil Nadu",
+        "desc": "Anbil Dharmalingam Agricultural College and Research Institute, situated in Tiruchirappalli, Tamil Nadu, is a distinguished institution for agricultural education and research. With a focus on experiential learning and industry collaborations, it prepares students to address the challenges in agriculture and contribute to rural development."
+    },
+    {
+        "rank": 5,
+        "name": "GOVIND BALLABH PANT UNIVERSITY OF AGRICULTURE AND TECHNOLOGY",
+        "city": "Pantnagar",
+        "state": "Uttarakhand",
+        "desc": "Govind Ballabh Pant University of Agriculture and Technology, located in Pantnagar, Uttarakhand, is a leading institution for agricultural education and research. With a commitment to excellence and sustainable practices, it equips students with the knowledge and skills to address the evolving challenges in agriculture."
+    },
+    {
+        "rank": 6,
+        "name": "MAHATMA PHULE KRISHI VIDYAPEETH",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "desc": "Mahatma Phule Krishi Vidyapeeth, situated in Pune, Maharashtra, is a renowned institution for agricultural education and research. With a focus on innovation and entrepreneurship, it prepares students to contribute to the agricultural sector's growth and development."
+    },
+    {
+        "rank": 7,
+        "name": "BIRSA AGRICULTURAL UNIVERSITY",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "desc": "Birsa Agricultural University, located in Ranchi, Jharkhand, is a premier institution for agricultural education and research. With a focus on sustainable agriculture and rural development, it prepares students to address the challenges faced by farmers and contribute to agricultural innovation."
+    },
+    {
+        "rank": 8,
+        "name": "DR. RAJENDRA PRASAD CENTRAL AGRICULTURAL UNIVERSITY",
+        "city": "Samastipur",
+        "state": "Bihar",
+        "desc": "Dr. Rajendra Prasad Central Agricultural University, situated in Samastipur, Bihar, is a distinguished institution for agricultural education and research. With a focus on inclusive growth and agricultural innovation, it equips students with the knowledge and skills to address the challenges in agriculture and rural development."
+    },
+    {
+        "rank": 9,
+        "name": "JUNAGADH AGRICULTURAL UNIVERSITY",
+        "city": "Junagadh",
+        "state": "Gujarat",
+        "desc": "Junagadh Agricultural University, located in Junagadh, Gujarat, is a leading institution for agricultural education and research. With a focus on sustainable agriculture and technology-driven solutions, it prepares students to address the challenges faced by farmers and contribute to agricultural development."
+    },
+    {
+        "rank": 10,
+        "name": "DR DY PATIL COLLEGE OF AGRICULTURE BUSINESS MANAGEMENT",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "desc": "Dr. DY Patil College of Agriculture Business Management, situated in Pune, Maharashtra, is a renowned institution offering programs in agricultural management and entrepreneurship. With a focus on industry-relevant curriculum and practical training, it prepares students for leadership roles in agribusiness and rural development."
+    },
+    {
+        "name": "SAM HIGGINBOTTOM UNIVERSITY OF AGRICULTURE TECHNOLOGY AND SCIENCES",
+        "city": "ALLAHABAD",
+        "state": "UTTAR PRADESH",
+        "rank": 11
+    },
+    {
+        "name": "MAHATMA JYOTI RAO PHOOLE UNIVERSITY ",
+        "city": "JAIPUR",
+        "state": "RAJASTHAN",
+        "rank": 12
+    },
+    {
+        "name": "JAWAHARLAL NEHRU KRISHI VISHWA VIDYALAYA ",
+        "city": "JABALPUR",
+        "state": "MADHYA PRADESH",
+        "rank": 13
+    },
+    {
+        "name": "KHALSA COLLEGE",
+        "city": "AMRITSAR",
+        "state": "PUNJAB",
+        "rank": 14
+    },
+    {
+        "name": "INDIRA GANDHI KRISHI VISHWAVIDYALAYA ",
+        "city": "RAIPUR",
+        "state": "CHHATTISGARH",
+        "rank": 15
+    },
+    {
+        "name": "YASHWANTRAO CHAVAN MAHARASHTRA OPEN UNIVERSITY",
+        "city": "NASHIK",
+        "state": "MAHARASHTRA",
+        "rank": 16
+    },
+    {
+        "name": "VANAVARAYAR INSTITUTE OF AGRICULTURE",
+        "city": "POLLACHI",
+        "state": "TAMIL NADU",
+        "rank": 17
+    },
+    {
+        "name": "ANAND NIKETAN COLLEGE OF AGRICULTURE",
+        "city": "CHANDRAPUR",
+        "state": "MAHARASHTRA",
+        "rank": 18
+    },
+    {
+        "name": "UTTAR BANGA KRISHI VISHWAVIDYALAYA ",
+        "city": "COOCH BEHAR",
+        "state": "WEST BENGAL",
+        "rank": 19
+    }
+]

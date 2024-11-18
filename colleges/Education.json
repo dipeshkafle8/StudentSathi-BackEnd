@@ -1,0 +1,254 @@
+[
+    {
+        "rank": 1,
+        "name": "University of Delhi",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "averageplacement": "INR 5-6 LPA",
+        "fees": "Varies by program",
+        "desc": "The University of Delhi, located in New Delhi, Delhi, is a prestigious institution known for its academic diversity and rich cultural heritage. With a focus on holistic development, it provides students with opportunities for academic excellence and personal growth."
+    },
+    {
+        "rank": 2,
+        "name": "VIT University",
+        "city": "Vellore",
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 6-7 LPA",
+        "fees": "INR 2-3 LPA",
+        "desc": "VIT University, situated in Vellore, Tamil Nadu, is a premier technical institute known for its academic excellence and industry interface. With a focus on holistic development and innovation, it prepares students for successful careers in engineering and technology."
+    },
+    {
+        "rank": 3,
+        "name": "All India Institute of Medical Sciences",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "averageplacement": "Not applicable",
+        "fees": "INR 1,628 per annum",
+        "desc": "AIIMS, located in New Delhi, Delhi, is a premier medical institute offering top-notch medical education and research. With state-of-the-art facilities and renowned faculty, it prepares students to excel in the field of medicine and healthcare."
+    },
+    {
+        "rank": 4,
+        "name": "Manipal University",
+        "city": "Manipal",
+        "state": "Karnataka",
+        "averageplacement": "INR 6-7 LPA",
+        "fees": "Varies by program",
+        "desc": "Manipal University, situated in Manipal, Karnataka, is a leading institution offering diverse programs in engineering, medicine, and other fields. With a focus on experiential learning and global exposure, it prepares students for success in their chosen careers."
+    },
+    {
+        "rank": 5,
+        "name": "Aligarh Muslim University",
+        "city": "Aligarh",
+        "state": "Uttar Pradesh",
+        "averageplacement": "INR 4-5 LPA",
+        "fees": "Varies by program",
+        "desc": "Aligarh Muslim University, located in Aligarh, Uttar Pradesh, is a renowned institution known for its academic excellence and cultural diversity. With a history of producing leaders in various fields, it provides students with a nurturing environment for growth and learning."
+    },
+    {
+        "rank": 6,
+        "name": "Indian Institute of Technology, Bombay",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "averageplacement": "INR 18 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "IIT Bombay, situated in Mumbai, Maharashtra, is one of the oldest and most prestigious engineering institutes in India. Known for its academic rigor and research excellence, it prepares students for leadership roles in engineering and technology."
+    },
+    {
+        "rank": 7,
+        "name": "Chitkara University, Punjab",
+        "city": "Rajpura",
+        "state": "Punjab",
+        "averageplacement": "INR 5-6 LPA",
+        "fees": "Varies by program",
+        "desc": "Chitkara University, located in Rajpura, Punjab, is a leading institution known for its academic excellence and industry collaborations. With a focus on innovation and entrepreneurship, it offers a conducive environment for holistic development and learning."
+    },
+    {
+        "rank": 8,
+        "name": "Amrita University",
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 6-7 LPA",
+        "fees": "INR 2-3 LPA",
+        "desc": "Amrita University, situated in Coimbatore, Tamil Nadu, is a premier technical institute known for its academic excellence and research contributions. With state-of-the-art facilities and interdisciplinary approach, it fosters innovation and fosters talent in cutting-edge research."
+    },
+    {
+        "rank": 9,
+        "name": "Amity University",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "averageplacement": "INR 4-5 LPA",
+        "fees": "Varies by program",
+        "desc": "Amity University, located in Noida, Uttar Pradesh, is a leading institution known for its academic excellence and industry interface. With a focus on holistic development and experiential learning, it prepares students for successful careers in various fields."
+    },
+    {
+        "rank": 10,
+        "name": "Indian Institute of Technology, Delhi",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "averageplacement": "INR 17 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "IIT Delhi, situated in New Delhi, Delhi, is renowned for its world-class faculty and state-of-the-art research facilities. With a focus on innovation and entrepreneurship, it fosters a culture of excellence in engineering and technology."
+    },
+    {
+        "rank": 11,
+        "name": "Indian Institute of Technology, Kharagpur",
+        "city": "Kharagpur",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 12,
+        "name": "Kalasalingam Academy of Research and Education",
+        "city": "Virudhunagar",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 13,
+        "name": "NMIMS University",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 14,
+        "name": "Chitkara Educational Trust",
+        "city": "Rajpura",
+        "state": "Punjab"
+    },
+    {
+        "rank": 15,
+        "name": "Symbiosis International University",
+        "city": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 16,
+        "name": "Indian Institute of Science",
+        "city": "Bengaluru",
+        "state": "Karnataka"
+    },
+    {
+        "rank": 17,
+        "name": "Indian Institute of Technology, Madras",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 18,
+        "name": "Birla Institute of Technology and Science",
+        "city": "Pilani",
+        "state": "Rajasthan"
+    },
+    {
+        "rank": 19,
+        "name": "University of Petroleum and Energy Studies",
+        "city": "Dehradun",
+        "state": "Uttarakhand"
+    },
+    {
+        "rank": 20,
+        "name": "Lovely Professional University",
+        "city": "Phagwara",
+        "state": "Punjab"
+    },
+    {
+        "rank": 21,
+        "name": "Sri Ramaswamy Memorial University",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 22,
+        "name": "KIIT University",
+        "city": "Bhubaneswar",
+        "state": "Odisha"
+    },
+    {
+        "rank": 23,
+        "name": "Indian Institute of Technology, Kanpur",
+        "city": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 24,
+        "name": "Christ University",
+        "city": "Bengaluru",
+        "state": "Karnataka"
+    },
+    {
+        "rank": 25,
+        "name": "Jawaharlal Nehru University",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 26,
+        "name": "Indian Institute of Technology Guwahati",
+        "city": "Guwahati",
+        "state": "Assam"
+    },
+    {
+        "rank": 27,
+        "name": "University of Pune",
+        "city": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 28,
+        "name": "Teerthanker Mahaveer University",
+        "city": "Moradabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 29,
+        "name": "University of Calcutta",
+        "city": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 30,
+        "name": "Tata Institute of Fundamental Research",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 31,
+        "name": "Thiagarajar College of Engineering",
+        "city": "Madurai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 32,
+        "name": "Chandigarh University",
+        "city": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "rank": 33,
+        "name": "Sharda University",
+        "city": "Greater Noida",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 34,
+        "name": "University of Hyderabad",
+        "city": "Hyderabad",
+        "state": "Telangana"
+    },
+    {
+        "rank": 35,
+        "name": "University of Kalyani",
+        "city": "Kalyani",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 36,
+        "name": "Indian Institute of Management Lucknow",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 37,
+        "name": "Jaipur National University",
+        "city": "Jaipur",
+        "state": "Rajasthan"
+    }
+]

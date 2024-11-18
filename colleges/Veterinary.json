@@ -1,0 +1,102 @@
+[
+    {
+        "rank": 1,
+        "name": "Indian Veterinary Research Institute",
+        "city": "Bareilly",
+        "state": "Uttar Pradesh",
+        "desc": "Indian Veterinary Research Institute, located in Bareilly, Uttar Pradesh, is a premier institution for veterinary education and research. With a focus on innovation and excellence, it prepares students to address the challenges in veterinary science and animal husbandry."
+    },
+    {
+        "rank": 2,
+        "name": "Postgraduate Institute of Medical Education and Research",
+        "city": "Chandigarh",
+        "state": "Punjab",
+        "desc": "Postgraduate Institute of Medical Education and Research, situated in Chandigarh, Punjab, is a renowned institution for medical education and research. With world-class facilities and expert faculty, it offers comprehensive programs to train healthcare professionals and advance medical research."
+    },
+    {
+        "rank": 3,
+        "name": "Tamil Nadu Veterinary and Animal Sciences University",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "desc": "Tamil Nadu Veterinary and Animal Sciences University, located in Chennai, Tamil Nadu, is a leading institution for veterinary education and research. With a commitment to excellence and innovation, it prepares students to meet the evolving needs of the veterinary and animal sciences sector."
+    },
+    {
+        "rank": 4,
+        "name": "Guru Angad Dev Veterinary and Animal Sciences University",
+        "city": "Ludhiana",
+        "state": "Punjab",
+        "desc": "Guru Angad Dev Veterinary and Animal Sciences University, situated in Ludhiana, Punjab, is a distinguished institution for veterinary education and research. With state-of-the-art infrastructure and renowned faculty, it offers comprehensive programs to train students for careers in veterinary science and animal husbandry."
+    },
+    {
+        "rank": 5,
+        "name": "Govind Ballabh Pant University of Agriculture and Technology",
+        "city": "Pantnagar",
+        "state": "Uttarakhand",
+        "desc": "Govind Ballabh Pant University of Agriculture and Technology, located in Pantnagar, Uttarakhand, is a premier institution for agricultural education and research. With a focus on innovation and sustainable practices, it equips students with the knowledge and skills to address the challenges in agriculture and allied sectors."
+    },
+    {
+        "rank": 6,
+        "name": "Sher-e-Kashmir University of Agricultural Sciences and Technology-Srinagar",
+        "city": "Srinagar",
+        "state": "Jammu and Kashmir",
+        "desc": "Sher-e-Kashmir University of Agricultural Sciences and Technology-Srinagar, situated in Srinagar, Jammu and Kashmir, is a leading institution for agricultural education and research in the region. With a focus on agricultural innovation and technology, it prepares students to address the unique challenges faced by farmers in the Himalayan region."
+    },
+    {
+        "rank": 7,
+        "name": "Lala Lajpat Rai University of Veterinary and Animal Sciences",
+        "city": "Hisar",
+        "state": "Haryana",
+        "desc": "Lala Lajpat Rai University of Veterinary and Animal Sciences, located in Hisar, Haryana, is a renowned institution for veterinary education and research. With a focus on academic excellence and industry collaboration, it prepares students for careers in veterinary science and animal husbandry."
+    },
+    {
+        "rank": 8,
+        "name": "Banaras Hindu University",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "desc": "Banaras Hindu University, situated in Varanasi, Uttar Pradesh, is a prestigious institution known for its multidisciplinary education and research programs. With a rich heritage and modern facilities, it offers diverse opportunities for students to excel in their chosen fields."
+    },
+    {
+        "rank": 9,
+        "name": "Anand Agricultural University",
+        "city": "Anand",
+        "state": "Gujarat",
+        "desc": "Anand Agricultural University, located in Anand, Gujarat, is a leading institution for agricultural education and research. With a focus on experiential learning and industry collaboration, it prepares students to address the challenges faced by farmers and contribute to agricultural development."
+    },
+    {
+        "rank": 10,
+        "name": "Assam Agricultural University",
+        "city": "Jorhat",
+        "state": "Assam",
+        "desc": "Assam Agricultural University, situated in Jorhat, Assam, is a premier institution for agricultural education and research in the Northeast region. With a focus on agricultural innovation and sustainable practices, it prepares students to address the unique challenges faced by farmers in the region."
+    },
+    {
+        "rank": 11,
+        "name": "Punjab Agricultural University",
+        "city": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "rank": 12,
+        "name": "Amity University",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 13,
+        "name": "Central Agricultural University",
+        "city": "Imphal",
+        "state": "Manipur"
+    },
+    {
+        "rank": 14,
+        "name": "Sher-e-Kashmir University of Agricultural Sciences and Technology-Jammu",
+        "city": "Jammu",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "rank": 15,
+        "name": "Orissa University of Agriculture and Technology",
+        "city": "Bhubaneswar",
+        "state": "Odisha"
+    }
+]

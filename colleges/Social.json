@@ -1,0 +1,446 @@
+[
+    {
+        "rank": 1,
+        "name": "Indian Institute of Technology, Kharagpur",
+        "city": "Kharagpur",
+        "state": "West Bengal",
+        "averageplacement": "INR 14.5 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "IIT Kharagpur, located in Kharagpur, West Bengal, is one of the premier engineering institutes in India. Renowned for its academic excellence and research contributions, it offers a dynamic learning environment for students to excel in engineering and technology."
+    },
+    {
+        "rank": 2,
+        "name": "University of Delhi",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "averageplacement": "INR 5-6 LPA",
+        "fees": "Varies by program",
+        "desc": "The University of Delhi, situated in New Delhi, Delhi, is a prestigious institution known for its academic diversity and rich cultural heritage. With a focus on holistic development, it provides students with opportunities for academic excellence and personal growth."
+    },
+    {
+        "rank": 3,
+        "name": "Indian Institute of Technology, Bombay",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "averageplacement": "INR 18 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "IIT Bombay, located in Mumbai, Maharashtra, is one of the oldest and most prestigious engineering institutes in India. Known for its academic rigor and research excellence, it prepares students for leadership roles in engineering and technology."
+    },
+    {
+        "rank": 4,
+        "name": "Indian Institute of Technology, Delhi",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "averageplacement": "INR 17 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "IIT Delhi, situated in New Delhi, Delhi, is renowned for its world-class faculty and state-of-the-art research facilities. With a focus on innovation and entrepreneurship, it fosters a culture of excellence in engineering and technology."
+    },
+    {
+        "rank": 5,
+        "name": "Thapar Institute of Engineering and Technology",
+        "city": "Patiala",
+        "state": "Punjab",
+        "averageplacement": "INR 7-8 LPA",
+        "fees": "INR 3-4 LPA",
+        "desc": "TIET Patiala, located in Patiala, Punjab, is a leading technical institute known for its academic excellence and industry collaborations. With a focus on experiential learning and innovation, it prepares students for successful careers in engineering and technology."
+    },
+    {
+        "rank": 6,
+        "name": "Indian Institute of Science",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "averageplacement": "INR 14 LPA",
+        "fees": "INR 50,000 per annum",
+        "desc": "IISc Bangalore, situated in Bengaluru, Karnataka, is renowned for its research and academic excellence in science and engineering. With state-of-the-art facilities and interdisciplinary approach, it fosters innovation and fosters talent in cutting-edge research."
+    },
+    {
+        "rank": 7,
+        "name": "Indian Institute of Technology, Roorkee",
+        "city": "Roorkee",
+        "state": "Uttarakhand",
+        "averageplacement": "INR 14 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "IIT Roorkee, located in Roorkee, Uttarakhand, is one of the oldest technical institutions in India. Renowned for its academic excellence and robust research programs, it offers a conducive environment for innovation and learning."
+    },
+    {
+        "rank": 8,
+        "name": "VIT University",
+        "city": "Vellore",
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 6-7 LPA",
+        "fees": "INR 2-3 LPA",
+        "desc": "VIT University, situated in Vellore, Tamil Nadu, is a premier technical institute known for its academic excellence and industry interface. With a focus on holistic development and innovation, it prepares students for successful careers in engineering and technology."
+    },
+    {
+        "rank": 9,
+        "name": "Jawaharlal Nehru University",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "averageplacement": "INR 6 LPA",
+        "fees": "INR 300 per annum",
+        "desc": "JNU, located in New Delhi, Delhi, is renowned for its social sciences and humanities programs. With a commitment to academic freedom and social justice, it provides students with a vibrant intellectual community and opportunities for critical thinking."
+    },
+    {
+        "rank": 10,
+        "name": "Delhi Technological University",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "averageplacement": "INR 10-12 LPA",
+        "fees": "INR 1-2 LPA",
+        "desc": "DTU, situated in New Delhi, Delhi, is a leading technical institution known for its academic excellence and industry partnerships. With a focus on innovation and entrepreneurship, it equips students with the skills and knowledge to address real-world challenges."
+    },
+    {
+        "rank": 11,
+        "name": "Chitkara University, Punjab",
+        "city": "Rajpura",
+        "state": "Punjab"
+    },
+    {
+        "rank": 12,
+        "name": "Manipal University",
+        "city": "Manipal",
+        "state": "Karnataka"
+    },
+    {
+        "rank": 13,
+        "name": "Anna University",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 14,
+        "name": "Amity University",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 15,
+        "name": "Aligarh Muslim University",
+        "city": "Aligarh",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 16,
+        "name": "Symbiosis International University",
+        "city": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 17,
+        "name": "Amrita University",
+        "city": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 18,
+        "name": "Indian Institute of Technology, Madras",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 19,
+        "name": "Birla Institute of Technology and Science",
+        "city": "Pilani",
+        "state": "Rajasthan"
+    },
+    {
+        "rank": 20,
+        "name": "Guru Gobind Singh Indraprastha University",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 21,
+        "name": "Banaras Hindu University",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 22,
+        "name": "Nirma University",
+        "city": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "rank": 23,
+        "name": "GLA University",
+        "city": "Mathura",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 24,
+        "name": "Indian Institute of Technology",
+        "city": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "rank": 25,
+        "name": "Motilal Nehru National Institute of Technology",
+        "city": "Prayagraj",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 26,
+        "name": "International Institute of Information Technology, Hyderabad",
+        "city": "Hyderabad",
+        "state": "Telangana"
+    },
+    {
+        "rank": 27,
+        "name": "Visvesvaraya National Institute of Technology",
+        "city": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 28,
+        "name": "National Institute of Technology Rourkela",
+        "city": "Rourkela",
+        "state": "Odisha"
+    },
+    {
+        "rank": 29,
+        "name": "Jamia Millia Islamia Central University",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 30,
+        "name": "Chitkara Educational Trust",
+        "city": "Rajpura",
+        "state": "Punjab"
+    },
+    {
+        "rank": 31,
+        "name": "Mizoram University",
+        "city": "Aizawl",
+        "state": "Mizoram"
+    },
+    {
+        "rank": 32,
+        "name": "Indraprastha Institute of Information Technology, Delhi",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 33,
+        "name": "Indian Institute of Technology, Varanasi",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 34,
+        "name": "National Institute of Technology Karnataka",
+        "city": "Surathkal",
+        "state": "Karnataka"
+    },
+    {
+        "rank": 35,
+        "name": "Sri Ramaswamy Memorial University",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 36,
+        "name": "Academy of Scientific and Innovative Research",
+        "city": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 37,
+        "name": "Guru Nanak Dev University",
+        "city": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "rank": 38,
+        "name": "Shri Mata Vaishno Devi University",
+        "city": "Katra",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "rank": 39,
+        "name": "Indian Institute of Technology Guwahati",
+        "city": "Guwahati",
+        "state": "Assam"
+    },
+    {
+        "rank": 40,
+        "name": "NMIMS University",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 41,
+        "name": "All India Institute of Medical Sciences",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 42,
+        "name": "Vidyasagar University",
+        "city": "Midnapore",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 43,
+        "name": "Lovely Professional University",
+        "city": "Phagwara",
+        "state": "Punjab"
+    },
+    {
+        "rank": 44,
+        "name": "Malaviya National Institute of Technology",
+        "city": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "rank": 45,
+        "name": "Maharshi Dayanand University",
+        "city": "Rohtak",
+        "state": "Haryana"
+    },
+    {
+        "rank": 46,
+        "name": "University of Kashmir",
+        "city": "Srinagar",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "rank": 47,
+        "name": "Shanmugha Arts, Science, Technology and Research Academy",
+        "city": "Thanjavur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 48,
+        "name": "Postgraduate Institute of Medical Education and Research",
+        "city": "Chandigarh",
+        "state": "Punjab"
+    },
+    {
+        "rank": 49,
+        "name": "Indian Institute of Technology, Kanpur",
+        "city": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 50,
+        "name": "National Institute of Technology, Patna",
+        "city": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "rank": 51,
+        "name": "Indian Institute of Technology Patna",
+        "city": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "rank": 52,
+        "name": "Kalasalingam Academy of Research and Education",
+        "city": "Virudhunagar",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 53,
+        "name": "University of Petroleum and Energy Studies",
+        "city": "Dehradun",
+        "state": "Uttarakhand"
+    },
+    {
+        "rank": 54,
+        "name": "KIIT University",
+        "city": "Bhubaneswar",
+        "state": "Odisha"
+    },
+    {
+        "rank": 55,
+        "name": "Indian Institute of Management, Ahmedabad",
+        "city": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "rank": 56,
+        "name": "Panjab University",
+        "city": "Chandigarh",
+        "state": "Punjab"
+    },
+    {
+        "rank": 57,
+        "name": "Indian Institute of Technology, Hyderabad",
+        "city": "Hyderabad",
+        "state": "Telangana"
+    },
+    {
+        "rank": 58,
+        "name": "Chandigarh University",
+        "city": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "rank": 59,
+        "name": "Sardar Vallabhbhai National Institute of Technology",
+        "city": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "rank": 60,
+        "name": "Maulana Azad National Institute of Technology",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "rank": 61,
+        "name": "Birla Institute of Technology",
+        "city": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "rank": 62,
+        "name": "University of Gour Banga",
+        "city": "Malda",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 63,
+        "name": "International Institute for Population Sciences",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 64,
+        "name": "National Institute of Technology Warangal",
+        "city": "Warangal",
+        "state": "Telangana"
+    },
+    {
+        "rank": 65,
+        "name": "Jadavpur University",
+        "city": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 66,
+        "name": "National Institute of Technology, Tiruchirappalli",
+        "city": "Tiruchirappalli",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 67,
+        "name": "Indian Statistical Institute",
+        "city": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 68,
+        "name": "University of Burdwan",
+        "city": "Bardhaman",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 69,
+        "name": "KL University",
+        "city": "Vijayawada",
+        "state": "Andhra Pradesh"
+    }
+]

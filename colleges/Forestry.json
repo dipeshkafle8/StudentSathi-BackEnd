@@ -1,0 +1,37 @@
+[
+    {
+        "rank": 1,
+        "name": "Indian Institute of Technology, Roorkee",
+        "city": "Roorkee",
+        "state": "Uttarakhand",
+        "desc": "Indian Institute of Technology, Roorkee, situated in Roorkee, Uttarakhand, is one of the premier technical institutes in India. Renowned for its academic excellence and research contributions, it offers a diverse range of programs in engineering, science, and technology."
+    },
+    {
+        "rank": 2,
+        "name": "Banaras Hindu University",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "desc": "Banaras Hindu University, located in Varanasi, Uttar Pradesh, is one of the oldest and largest residential universities in Asia. With a rich academic tradition and modern infrastructure, it offers a wide range of undergraduate, postgraduate, and doctoral programs across various disciplines."
+    },
+    {
+        "rank": 3,
+        "name": "Punjab Agricultural University",
+        "city": "Ludhiana",
+        "state": "Punjab",
+        "desc": "Punjab Agricultural University, situated in Ludhiana, Punjab, is a leading agricultural university known for its research and extension programs. With a focus on agricultural innovation and technology transfer, it plays a vital role in promoting sustainable agriculture and rural development."
+    },
+    {
+        "rank": 4,
+        "name": "Mizoram University",
+        "city": "Aizawl",
+        "state": "Mizoram",
+        "desc": "Mizoram University, located in Aizawl, Mizoram, is a central university established to cater to the higher education needs of the state. With a commitment to academic excellence and regional development, it offers a diverse range of undergraduate, postgraduate, and doctoral programs."
+    },
+    {
+        "rank": 5,
+        "name": "Tamil Nadu Agricultural University",
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "desc": "Tamil Nadu Agricultural University, situated in Coimbatore, Tamil Nadu, is a premier institution for agricultural education and research in India. With a focus on technology-driven agriculture and sustainable practices, it plays a crucial role in transforming the agricultural landscape of the region."
+    }
+]

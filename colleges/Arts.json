@@ -1,0 +1,344 @@
+[
+    {
+        "rank": 1,
+        "name": "University of Delhi",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "averageplacement": "Not applicable",
+        "fees": "Varies by program",
+        "desc": "University of Delhi, located in New Delhi, Delhi, is one of India's most prestigious universities offering a wide range of undergraduate, postgraduate, and doctoral programs across various disciplines. It is renowned for its academic excellence, vibrant campus life, and rich cultural heritage."
+    },
+    {
+        "rank": 2,
+        "name": "All India Institute of Medical Sciences",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "averageplacement": "Not applicable",
+        "fees": "INR 1,628 per annum",
+        "desc": "AIIMS, situated in New Delhi, Delhi, is a premier medical institute recognized for its exceptional healthcare services, medical education, and research. With state-of-the-art facilities and world-class faculty, it is dedicated to producing skilled healthcare professionals and advancing medical science."
+    },
+    {
+        "rank": 3,
+        "name": "Symbiosis International University",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "averageplacement": "INR 6-8 LPA",
+        "fees": "Varies by program",
+        "desc": "Symbiosis International University, located in Pune, Maharashtra, is a renowned educational institution known for its diverse academic programs, innovative teaching methods, and industry-oriented curriculum. It fosters holistic development and prepares students for global challenges."
+    },
+    {
+        "rank": 4,
+        "name": "VIT University",
+        "city": "Vellore",
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 4-6 LPA",
+        "fees": "INR 2.5-4 LPA",
+        "desc": "VIT University, situated in Vellore, Tamil Nadu, is a leading educational institution known for its academic excellence and industry collaborations. With a focus on research and innovation, it offers a dynamic learning environment and prepares students for successful careers."
+    },
+    {
+        "rank": 5,
+        "name": "Manipal University",
+        "city": "Manipal",
+        "state": "Karnataka",
+        "averageplacement": "INR 6-8 LPA",
+        "fees": "Varies by program",
+        "desc": "Manipal University, located in Manipal, Karnataka, is a renowned educational institution offering a wide range of programs across various disciplines. With world-class infrastructure and industry partnerships, it provides students with opportunities for experiential learning and skill development."
+    },
+    {
+        "rank": 6,
+        "name": "Indian Institute of Technology, Kharagpur",
+        "city": "Kharagpur",
+        "state": "West Bengal",
+        "averageplacement": "INR 14.5 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "IIT Kharagpur, situated in Kharagpur, West Bengal, is one of the premier engineering institutes in India. Known for its academic excellence and research contributions, it offers a conducive environment for innovation and technological advancement."
+    },
+    {
+        "rank": 7,
+        "name": "Jawaharlal Nehru University",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "averageplacement": "INR 6 LPA",
+        "fees": "INR 300 per annum",
+        "desc": "JNU, located in New Delhi, Delhi, is renowned for its interdisciplinary approach to education and research. With a focus on social sciences and humanities, it fosters critical thinking and intellectual growth, preparing students for societal leadership roles."
+    },
+    {
+        "rank": 8,
+        "name": "Banaras Hindu University",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "averageplacement": "INR 5-7 LPA",
+        "fees": "INR 2-3 LPA",
+        "desc": "Banaras Hindu University, situated in Varanasi, Uttar Pradesh, is one of the oldest and largest residential universities in Asia. With a rich academic heritage and cultural legacy, it offers a wide range of courses and research opportunities."
+    },
+    {
+        "rank": 9,
+        "name": "Gauhati University",
+        "city": "Guwahati",
+        "state": "Assam",
+        "averageplacement": "INR 3-5 LPA",
+        "fees": "INR 10,000-20,000 per annum",
+        "desc": "Gauhati University, located in Guwahati, Assam, is a leading educational institution known for its academic excellence and cultural diversity. With a focus on research and community engagement, it contributes to the socio-economic development of the region."
+    },
+    {
+        "rank": 10,
+        "name": "Amity University",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "averageplacement": "INR 3-5 LPA",
+        "fees": "INR 1.8-2.5 LPA",
+        "desc": "Amity University, situated in Noida, Uttar Pradesh, is a multi-disciplinary educational institution known for its academic excellence and global outlook. With state-of-the-art infrastructure and industry partnerships, it offers a conducive environment for holistic development and career growth."
+    },
+    {
+        "rank": 11,
+        "name": "Indian Institute of Science",
+        "city": "Bengaluru",
+        "state": "Karnataka"
+    },
+    {
+        "rank": 12,
+        "name": "Birla Institute of Technology and Science",
+        "city": "Pilani",
+        "state": "Rajasthan"
+    },
+    {
+        "rank": 13,
+        "name": "Indian Institute of Technology, Bombay",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 14,
+        "name": "Bharathidasan University",
+        "city": "Tiruchirappalli",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 15,
+        "name": "Alagappa University",
+        "city": "Karaikudi",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 16,
+        "name": "Panjab University",
+        "city": "Chandigarh",
+        "state": "Chandigarh"
+    },
+    {
+        "rank": 17,
+        "name": "Indian Institute of Technology, Delhi",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 18,
+        "name": "Aligarh Muslim University",
+        "city": "Aligarh",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 19,
+        "name": "National Institute of Technology, Tiruchirappalli",
+        "city": "Tiruchirappalli",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 20,
+        "name": "Gujarat University",
+        "city": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "rank": 21,
+        "name": "University of Burdwan",
+        "city": "Burdwan",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 22,
+        "name": "Jamia Millia Islamia Central University",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 22,
+        "name": "Annamalai University",
+        "city": "Annamalainagar",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 24,
+        "name": "Tezpur University",
+        "city": "Tezpur",
+        "state": "Assam"
+    },
+    {
+        "rank": 24,
+        "name": "Indian Institute of Technology, Kanpur",
+        "city": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 26,
+        "name": "University of Kashmir",
+        "city": "Srinagar",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "rank": 27,
+        "name": "Indian Institute of Technology",
+        "city": "Bhilai",
+        "state": "Chhattisgarh"
+    },
+    {
+        "rank": 28,
+        "name": "Christ University",
+        "city": "Bengaluru",
+        "state": "Karnataka"
+    },
+    {
+        "rank": 29,
+        "name": "Indian Institute of Technology Guwahati",
+        "city": "Guwahati",
+        "state": "Assam"
+    },
+    {
+        "rank": 30,
+        "name": "Sri Ramaswamy Memorial University",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 31,
+        "name": "Assam University",
+        "city": "Silchar",
+        "state": "Assam"
+    },
+    {
+        "rank": 32,
+        "name": "Indian Institute of Technology, Madras",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 33,
+        "name": "Indian Institute of Technology, Roorkee",
+        "city": "Roorkee",
+        "state": "Uttarakhand"
+    },
+    {
+        "rank": 34,
+        "name": "University of Kerala",
+        "city": "Thiruvananthapuram",
+        "state": "Kerala"
+    },
+    {
+        "rank": 35,
+        "name": "University of Jammu",
+        "city": "Jammu",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "rank": 36,
+        "name": "Babasaheb Bhimrao Ambedkar University",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 37,
+        "name": "Mizoram University",
+        "city": "Aizawl",
+        "state": "Mizoram"
+    },
+    {
+        "rank": 38,
+        "name": "Jadavpur University",
+        "city": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 39,
+        "name": "Indian Institute of Technology, Hyderabad",
+        "city": "Hyderabad",
+        "state": "Telangana"
+    },
+    {
+        "rank": 40,
+        "name": "KIIT University",
+        "city": "Bhubaneswar",
+        "state": "Odisha"
+    },
+    {
+        "rank": 41,
+        "name": "Periyar University",
+        "city": "Salem",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 42,
+        "name": "University of Madras",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 43,
+        "name": "University of Calcutta",
+        "city": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 44,
+        "name": "Bharathiar University",
+        "city": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 45,
+        "name": "Ashoka University",
+        "city": "Sonepat",
+        "state": "Haryana"
+    },
+    {
+        "rank": 46,
+        "name": "North-Eastern Hill University",
+        "city": "Shillong",
+        "state": "Meghalaya"
+    },
+    {
+        "rank": 47,
+        "name": "University of Hyderabad",
+        "city": "Hyderabad",
+        "state": "Telangana"
+    },
+    {
+        "rank": 48,
+        "name": "Tata Institute of Fundamental Research",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 49,
+        "name": "Allahabad University",
+        "city": "Prayagraj",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 50,
+        "name": "University of Mysore",
+        "city": "Mysuru",
+        "state": "Karnataka"
+    },
+    {
+        "rank": 51,
+        "name": "University of North Bengal",
+        "city": "Siliguri",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 52,
+        "name": "Goa University",
+        "city": "Taleigao",
+        "state": "Goa"
+    }
+]
