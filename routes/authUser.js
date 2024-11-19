@@ -3,6 +3,7 @@ const jwt = require("jsonwebtoken");
 const userAuth = express.Router();
 userAuth.post("/", (req, res) => {
   let token = req.headers["authorization"];
+
   token = token.split(" ")[1];
 
   if (!token) {
